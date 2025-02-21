@@ -1,0 +1,14 @@
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\Tarea Modularizacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\Tarea Modularizacion.AssemblyInfoInputs.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\Tarea Modularizacion.AssemblyInfo.cs
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\Tarea Modularizacion.csproj.CoreCompileInputs.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\bin\Debug\net8.0\Tarea Modularizacion.exe
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\bin\Debug\net8.0\Tarea Modularizacion.deps.json
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\bin\Debug\net8.0\Tarea Modularizacion.runtimeconfig.json
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\bin\Debug\net8.0\Tarea Modularizacion.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\bin\Debug\net8.0\Tarea Modularizacion.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\Tarea Modularizacion.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\refint\Tarea Modularizacion.dll
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\Tarea Modularizacion.pdb
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\Tarea Modularizacion.genruntimeconfig.cache
+C:\Users\cerme\OneDrive\Documents\Desktop\Modularizacion\Tarea Modularizacion\obj\Debug\net8.0\ref\Tarea Modularizacion.dll
